@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "storage_project"
+name = "storage_holder"
 version = "0.1.0"
